@@ -1,2 +1,2 @@
 # Img-gesture-password
-entering password using a camera (only Numbers) Using Python and OpenCV
+entering password using hands through a camera (only Numbers) Using Python and OpenCV
