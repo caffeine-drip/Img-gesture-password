@@ -1,0 +1,12 @@
+Run the main.py file which will open a window allowing you to enter your username and password to register.
+The password would be entered using a camera which will be stored in a text file for confirmation later on.
+Once registered a person can easily login using their username and password.
+
+The windows or GUI is created using Tkinter and Python.
+The rest of the code is also in Python .
+Libraries used :- 
+
+	   	OpenCV
+			Numpy
+
+Used Concepts of Convex Hull, Haar like Features and simple file read and write Concepts.
