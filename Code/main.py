@@ -16,7 +16,7 @@ iii=Label(mi,text="To Visite Your File")
 iiii=Button(mi,text="Click",command=ch)
 
 iia=Label(mi,text="Created by Anindya,")
-iiaa=Label(mi,text="Anirudh,Anshul and Akansha")
+
 i.grid(row=0,column=1)
 ii.grid(row=0,column=2)
 iii.grid(row=1,column=1)
